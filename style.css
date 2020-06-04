@@ -1,0 +1,80 @@
+.body{
+  background-color: #264653;
+}
+
+.heading-bar{
+  background-color: #e9c46a;
+  display: inline-block;
+  width: 800px;
+  text-align: left;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  color: purple;
+}
+
+.name {
+  display: inline;
+  padding-left: 10px;
+  color: #2a9d8f;
+}
+.nav-bar-item{
+  display: inline-block;
+  color: #e76f51;
+  text-align: center;
+  padding-left: 20px;
+  padding-top: 10px;
+  text-decoration: underline;
+}
+
+.nav-bar-item:active {
+  color: blue;
+}
+
+.bio-background{
+  display: block;
+  width: 500px;
+  height: 220px;
+  background-color: #e9c46a;
+}
+
+.about-me{
+  color: #264653;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.about-text{
+  color: #2a9d8f;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.contact-background{
+  display: block;
+  width: 500px;
+  height: 220px;
+  background-color: #e9c46a;
+}
+.contact-me{
+  color: #264653;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.contact-text{
+  color: #2a9d8f;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.address{
+  color: #2a9d8f;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+}
+#city-state{
+  padding-left: 70px;
+}
